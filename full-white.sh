@@ -1,3 +1,3 @@
 #!/bin/sh
 
-openrgb -d 0 -m Static -c FFFFFF -d 1 -c FFFFFF -c FFFFFF -c FFFFFF
+openrgb -d 0 -m direct -c FFFFFF -d 1 -c FFFFFF -c FFFFFF -c FFFFFF
